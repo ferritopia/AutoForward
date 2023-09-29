@@ -52,6 +52,11 @@
     "SESSION": {
       "description": "Pyrogram string Seccion https://replit.com/@JijinR/PyroSessionString",
       "value": ""
+    },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "Private"
     }
   }
 }
